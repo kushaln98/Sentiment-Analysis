@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment analysis for online customer data. 
+Sentiment analysis for online shopping for appliance data. 
